@@ -1,7 +1,7 @@
 # just_audio_player
 
 
-## Playing Long-Form Audio in Flutter
+## Playing Long-Form Audio in Flutter using Riverpod
 
 This project demonstrates how to implement long-form audio playback, such as songs, podcasts, or lectures, in your Flutter app. While local audio files can be played, this project focuses on streaming audio from remote URLs, a more common use case. The core concepts learned here can be applied to local audio playback as well.
 
